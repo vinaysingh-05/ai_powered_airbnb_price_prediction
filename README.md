@@ -1,17 +1,67 @@
-🏙️ AI-Powered Airbnb Price Prediction Dashboard
+# 🏙️ AI-Powered Airbnb Price Prediction Dashboard
 
-🧠 Overview
+<p align="center">
+  <img src="assets/dashboard.png" width="100%" alt="App Banner"/>
+</p>
 
-This project is an AI-driven dashboard built using Streamlit that predicts Airbnb listing prices based on real-world factors like room type, minimum nights, number of reviews, and availability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Streamlit-ff4b4b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+</p>
 
-The dashboard combines Machine Learning (Scikit-learn) with interactive data visualization to help users analyze and understand how various features influence Airbnb prices.
+---
 
-✨ Features
+## 🧠 Overview
+✨ This project is an **AI-driven interactive dashboard** that predicts Airbnb listing prices based on real-world features like:
 
-🏠 Interactive Web App built with Streamlit
-🤖 Price Prediction using Linear Regression
-📊 Real-time Visualizations (Matplotlib)
-🧮 Dynamic Data Preprocessing with Label Encoding
-🎨 Beautiful UI with Navbar, Footer, and Custom Themes
-🌆 Animated City Lottie showing smart-city vibes
-💾 Dataset Handling using Pandas
+- 🛏 Room Type  
+- 📅 Availability  
+- ⭐ Reviews  
+- 🌙 Minimum Nights  
+
+It combines **Machine Learning + Data Visualization + Interactive UI** to help users understand how listing features influence price.
+
+---
+
+## 🚀 Live Demo
+🔗 **Try it here:**  
+👉 https://air-bnb-price-prediction099223.streamlit.app/
+
+---
+
+## 🎯 Features
+
+✨ **Interactive Experience**
+- 🏠 Dynamic Web App powered by Streamlit  
+- 🎛 User inputs update predictions instantly  
+
+🤖 **Machine Learning**
+- 📈 Linear Regression model  
+- 🧮 Smart preprocessing with Label Encoding  
+
+📊 **Visualization**
+- 📉 Real-time Matplotlib charts  
+- 📊 Feature impact analysis  
+
+🎨 **Modern UI**
+- Navbar + Footer layout  
+- Custom theme styling  
+- 🌆 Animated city illustration for smart-AI feel  
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|--------|------|
+| Programming | 🐍 Python |
+| ML Library | 🤖 Scikit-learn |
+| Visualization | 📊 Matplotlib |
+| Data | 🧾 Pandas |
+| Frontend | 🎈 Streamlit |
+
+---
+
+## 📂 Project Structure
